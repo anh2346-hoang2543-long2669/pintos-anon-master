@@ -1,2 +1,2 @@
-# pintos-anon-master-priority-scheduling
+# pintos-anon-master
 Bài tập lớn hệ điều hành 2022
